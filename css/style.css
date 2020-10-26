@@ -1,0 +1,164 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* header */
+header {
+  background-image: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fres.cloudinary.com%2Fbrandpad%2Fimage%2Fupload%2Fv1587686052%2F4871%2Fhelbiz-logo-bg2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* nav */
+nav {
+  padding: 50px;
+}
+nav a {
+  text-decoration: none;
+  padding: 30px;
+  color: white;
+}
+.logo_header {
+  color: white;
+}
+.language {
+  display: inline-block;
+  color: white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  padding: 0 10px;
+
+}
+.login {
+  color: white;
+  border: 1px solid white;
+  padding: 20px;
+}
+
+/* banner */
+.banner {
+  text-align: center;
+}
+.banner h1 {
+  color: white;
+  padding-top: 100px;
+}
+.banner p {
+  color: white;
+  padding: 25px;
+}
+.banner img {
+  height: 100px;
+  margin-bottom: 200px;
+}
+
+/* bike */
+.bike {
+  margin-top: 100px;
+  text-align: center;
+}
+.bike h1 {
+  padding-top: 100px;
+}
+.bike p {
+  padding: 25px;
+  font-size: 25px;
+}
+.bike a {
+  text-decoration: none;
+}
+.bike img {
+  margin-bottom: 100px;
+  height: 500px;
+}
+
+/* banner main */
+.banner_main_image {
+  background-image: url(https://romah24.com/prati/wp-content/uploads/sites/3/2019/11/greta.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.banner_main p {
+  margin-top: 20px;
+  font-size: 20px;
+}
+.banner_main h2 {
+  font-size: 40px;
+  margin-top: 100px;
+}
+.banner_main img {
+  width: 100%;
+}
+
+/* hub */
+.hub_1 {
+  background: #00b8ab;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  margin-bottom: 50px;
+}
+
+.hub_2 {
+  background: #00b8ab;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+  margin: 40px;
+}
+.hub_1 h2 {
+  color: white;
+  font-size: 50px;
+  margin-top: 100px;
+  text-align: center;
+}
+.hub_1 p {
+  color: white;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.hub_2 h2 {
+  color: white;
+  font-size: 50px;
+  margin-top: 100px;
+  text-align: center;
+}
+.hub_2 p {
+  color: white;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* footer */
+footer {
+  color: white;
+  background: black;
+}
+footer h1 {
+  font-size: 50px;
+}
+footer h2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 40px;
+}
+footer h3 {
+  padding: 20px;
+  margin-left: -20px;
+}
+footer a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
